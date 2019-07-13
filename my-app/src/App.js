@@ -60,7 +60,11 @@ function ShuffleCharacters(array) {
     render() {
       return (<div>
         <Navbar />
-        <Header />
+        <Header> 
+        score={this.state.score}
+        highScore={this.state.highScore}
+        wrong={this.state.wrong}
+        </Header>
         <Container>
           {this.state.characters.map(character => (
             
