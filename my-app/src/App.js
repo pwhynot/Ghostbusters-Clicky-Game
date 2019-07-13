@@ -39,7 +39,7 @@ function ShuffleCharacters(array) {
         this.setState({ highScore: newScore });
       }
       else if (newScore === 12) {
-        this.setState({ wrong: "Wrong" });
+        this.setState({ wrong: "Incorrect Guess" });
       }
       this.handleShuffle();
     };
@@ -69,14 +69,14 @@ function ShuffleCharacters(array) {
           {this.state.characters.map(character => (
             
             <Card
-              id={character.id}
-              key={character.id}
-              image={character.image}
-              name={character.name}
-              handleClick={this.handleClick}
-              handleIncrement={this.handleIncrement}
-              handleReset={this.handleReset}
-              handleShuffle={this.handleShuffle}
+              id= {character.id}
+              key= {character.id}
+              image= {character.image}
+              name= {character.name}
+              handleClick= {this.handleClick}
+              handleIncrement= {this.handleIncrement}
+              handleReset= {this.handleReset}
+              handleShuffle= {this.handleShuffle}
             />
           ))}
         </Container>
