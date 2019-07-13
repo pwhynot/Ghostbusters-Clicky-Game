@@ -15,7 +15,7 @@ const style = {
         color: "white"
     }
 }
-function Header(props) {
+function Header() {
     return (
     <div style={style.HeaderStyle} className="headerDiv">
         <h2 id="instructions">Click an image to gain points, click the same image twice game over!</h2>
