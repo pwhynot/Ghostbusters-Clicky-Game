@@ -54,7 +54,7 @@ function ShuffleCharacters(array) {
     }
     handleShuffle = () => {
       let shuffledCharacters = ShuffleCharacters(characters);
-      this.setState({ friends: shuffledCharacters });
+      this.setState({ characters: shuffledCharacters });
     };
     
     render() {
