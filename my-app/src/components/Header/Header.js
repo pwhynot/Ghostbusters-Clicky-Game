@@ -1,5 +1,5 @@
 import React from "react";
-import "./style.css"
+
 
 const score = 0;
 const highScore = 0;

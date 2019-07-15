@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "http://pwhynot.github.io/react-gh-pages",
   "dependencies": {
     "gh-pages": "^2.0.1",
