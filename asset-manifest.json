@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.160395a9.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.e1f4479d.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.e1f4479d.chunk.js.map",
-    "runtime~main.js": "/react-gh-pages/static/js/runtime~main.ac2d5040.js",
-    "runtime~main.js.map": "/react-gh-pages/static/js/runtime~main.ac2d5040.js.map",
-    "static/js/2.884c28c3.chunk.js": "/react-gh-pages/static/js/2.884c28c3.chunk.js",
-    "static/js/2.884c28c3.chunk.js.map": "/react-gh-pages/static/js/2.884c28c3.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.21d77d28e8815c25a39afac19734b225.js": "/react-gh-pages/precache-manifest.21d77d28e8815c25a39afac19734b225.js",
-    "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/main.160395a9.chunk.css.map": "/react-gh-pages/static/css/main.160395a9.chunk.css.map"
+    "main.css": "/Ghostbusters-Clicky-Game/static/css/main.160395a9.chunk.css",
+    "main.js": "/Ghostbusters-Clicky-Game/static/js/main.4eec25d1.chunk.js",
+    "main.js.map": "/Ghostbusters-Clicky-Game/static/js/main.4eec25d1.chunk.js.map",
+    "runtime~main.js": "/Ghostbusters-Clicky-Game/static/js/runtime~main.47ac2277.js",
+    "runtime~main.js.map": "/Ghostbusters-Clicky-Game/static/js/runtime~main.47ac2277.js.map",
+    "static/js/2.884c28c3.chunk.js": "/Ghostbusters-Clicky-Game/static/js/2.884c28c3.chunk.js",
+    "static/js/2.884c28c3.chunk.js.map": "/Ghostbusters-Clicky-Game/static/js/2.884c28c3.chunk.js.map",
+    "index.html": "/Ghostbusters-Clicky-Game/index.html",
+    "precache-manifest.89b65cec49d876b91a84fcf37ff4b752.js": "/Ghostbusters-Clicky-Game/precache-manifest.89b65cec49d876b91a84fcf37ff4b752.js",
+    "service-worker.js": "/Ghostbusters-Clicky-Game/service-worker.js",
+    "static/css/main.160395a9.chunk.css.map": "/Ghostbusters-Clicky-Game/static/css/main.160395a9.chunk.css.map"
   }
 }
